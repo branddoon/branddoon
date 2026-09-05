@@ -1,7 +1,7 @@
 <h1 align="center">Brandon</h1>
 
 <p align="center">
-  <em>Backend Developer & Cloud Enthusiast.</em>
+  <em>Senior Software Engineer & DevOps Engineer</em>
 </p>
 
 ## 🚀 About my projects
